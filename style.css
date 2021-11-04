@@ -1,0 +1,21 @@
+body{
+    background-image:url("background.png") ;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color: yellow;
+    width: fit-content;
+    text-decoration: underline;
+}
+h3{
+    color: white;
+    width: fit-content;
+    padding: 10px;
+    border: 3px double white;
+    font-size: 20px;
+}
+canvas{
+    background-color: #1B2828;
+    border: 5px double white;
+}
